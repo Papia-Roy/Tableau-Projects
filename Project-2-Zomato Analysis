@@ -1,0 +1,18 @@
+Project Name: Zomato Data Analysis Project
+Tools Use: Excel
+
+Objective:
+This project focused on extracting meaningful insights from Zomato’s restaurant data using advanced data analysis techniques. It involved utilizing Excel functions for data transformation, lookup operations, modeling, and visualization to present key findings effectively.  
+
+Project Goals:
+- Develop a Country Map Table to standardize country-related data.  
+- Create a Date Dimension Table using the Datekey column for time-based analysis.  
+- Analyze the Number of Restaurants by City and Country.  
+- Evaluate Restaurant Opening Frequency across Year, Quarter, and Month.  
+- Assess the Distribution of Restaurants based on Average Ratings.  
+- Categorize restaurants into price buckets based on Average Price and determine the number of restaurants in each.  
+- Calculate the Percentage of Restaurants offering Table Booking and Online Delivery services.  
+- Develop Charts and Dashboards focused on Cuisines, City, and Ratings for deeper insights.  
+
+Outcome:
+The analysis resulted in comprehensive reports and interactive dashboards, equipping Zomato’s decision-makers with key insights to optimize platform performance, enhance user engagement, and drive business growth.  
